@@ -9,8 +9,8 @@ The components directory contains all html code to be copy and pasted into React
 ## FINISHED PAGES
 
 Landing Page:
-!(https://github.com/tamaratell/TripWizard-Styles/blob/master/assets/landing.png?raw=true) 
+![Landing](https://github.com/tamaratell/TripWizard-Styles/blob/master/assets/landing.png?raw=true) 
 
 Favorites Page:
-!(https://github.com/tamaratell/TripWizard-Styles/blob/master/assets/favorites.png?raw=true)
+![Favorites](https://github.com/tamaratell/TripWizard-Styles/blob/master/assets/favorites.png?raw=true)
 
